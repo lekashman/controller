@@ -1,3 +1,7 @@
+# Welcome to the manual for the K-Type Mechanical Keyboard!
+
+This manual is open source and is subject to change. It is released under the [GPLv3 Open Source license](https://opensource.org/licenses/gpl-3.0.html) and requires attribution. 
+
 # Flashing the K-Type
 
 ### Entering Flash Mode.
